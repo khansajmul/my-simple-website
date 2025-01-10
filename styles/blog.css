@@ -3,3 +3,6 @@ div{
     padding: 20px;
     margin-bottom: 20px;
 }
+img{
+    border: 20px solid green;
+}
